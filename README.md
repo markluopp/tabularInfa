@@ -1,3 +1,4 @@
-# Informatica-Simplified-Method
+# tabularInfa
 Author: Genghui Luo
-Utilize informatica import/export wizard with VBA and shell srcipts
+tabularInfa is a useful VBA tool base on Excel.
+You can edit Informatica exported xml file quickly by this tool especially for duplicated effort.
