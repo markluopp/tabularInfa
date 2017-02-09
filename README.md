@@ -6,7 +6,9 @@
 
 ## Usage
 
-1. download *tabularInfa.xlsm* and dtd
+1. download *tabularInfa.xlsm* and *powrmart.dtd*
+
+  > you can find the proper version of dtd in informatica.
 2. double click *tabularInfa.xlsm*, enable macro
 
 ## TabularInfa Console
