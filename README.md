@@ -13,16 +13,20 @@
 
 ### Mapping
 > load a mapping xml, edit it in excel; can work with *autolink*
+
 ![](./screenshot/edit_mapping.jpg)
 
 ### Source
 > load a source xml, edit it in excel; can work with *Layout Hygiene*
+
 ![](./screenshot/edit_src.jpg)
 
 ### Target
 > load a target xml, edit it in excel; can work with *Layout Hygiene*
+
 ![](./screenshot/edit_tgt.jpg)
 
 ### Autolink
 > handle links of any two transformations in a loaded mapping
+
 ![](./screenshot/autolink.jpg)
